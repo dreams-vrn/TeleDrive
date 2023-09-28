@@ -42,7 +42,7 @@ We using the monorepo structure with [yarn workspaces](https://classic.yarnpkg.c
  
 ```
 .
-├── README.md
+├── READ ME.md
 ├── package.json
 ├── server
 │   ├── package.json
